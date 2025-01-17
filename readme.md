@@ -19,6 +19,6 @@ Automatização de cálculos de interchange para bandeiras Visa, Elo e MasterCar
 Criação de ferramentas para controle de pendências de postagens e conciliações financeiras, com integração ao SharePoint e Power Automate.
 
 ## Contato
-- 🌐 **LinkedIn:** [https://linkedin.com/in/heitor-dairel](linkedin.com/in/heitor-dairel)
+- 🌐 **LinkedIn:** [linkedin.com/in/heitor-dairel](https://linkedin.com/in/heitor-dairel)
 
 Fique à vontade para explorar meus repositórios e contribuir! 🚀
