@@ -9,7 +9,7 @@ Sou apaixonado por programação, automação de processos e criação de soluç
 - **Especializações:** Automação de tarefas, cálculos complexos de datas, conciliações financeiras e geração de relatórios.
 
 ## Projetos Destaque
-### 📦 **HEITOR_LIBRARY**
+### 📦 **Heitor_Library**
 Uma biblioteca PL/SQL personalizada com funções avançadas para cálculos de datas, ajustes de dias úteis e feriados móveis.
 
 ## Contato
