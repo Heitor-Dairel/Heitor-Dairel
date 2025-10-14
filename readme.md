@@ -18,11 +18,9 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heitor-Dairel/Heitor-Dairel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heitor-Dairel/Heitor-Dairel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Heitor-Dairel/Heitor-Dairel/output/github-contribution-grid-snake.svg">
-</picture>
+[![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=Gmail&logoColor=fff&color=%2380aad3)](mailto:hdgtlindo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=Instagram&logoColor=fff&color=%2380aad3)](https://www.instagram.com/hdairel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff&color=%2380aad3)](https://www.linkedin.com/in/heitor-dairel)
 
 </div>
 
@@ -60,7 +58,6 @@ Always curious, I like **learning**, **experimenting**, and **mixing logic with 
 
 Feel free to explore my repositories and follow along if you enjoy what I do!
 
-
 <br>
 
 <div align="center">
@@ -78,7 +75,7 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 
 
 <div align="center">
-  <b><code style="font-size:100px;">01001000 01100101 01101001 01110100 01101111 01110010</code></b>
+  <b><code style="font-size:400px;">01001000 01100101 01101001 01110100 01101111 01110010</code></b>
 </div>
 
 <br>
