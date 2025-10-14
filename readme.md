@@ -17,9 +17,9 @@
 </div>
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGpsMnZ5MmN2aGVoODFkdTZsaWwwajVodjV3cmFwMjV6Z3N0MnE3cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ou60s0z0v7JzSWGn8C/giphy.gif" width="400"/></a>
-</p>
+<div align="center">
+  <img src="assets/imagem.png" width="400"/>
+</div>
 
 
 
