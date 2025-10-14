@@ -12,9 +12,7 @@
 </div>
 
 
-<div align="center" width="100%">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=900&color=C0E6FD&center=true&width=435&lines=Welcome!;My+name+is+Heitor+Dairel;I%E2%80%99m+a+developer;I%E2%80%99m+from+Brazil;I%E2%80%99m+an+Information+Systems+student" alt="Typing SVG" /></a>
-</div>
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 
 <img align="center" src="https://raw.githubusercontent.com/Heitor-Dairel/Heitor-Dairel/output/snake.svg" alt="Snake animation" />
