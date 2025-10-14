@@ -74,9 +74,10 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 <br>
 
 
-<div align="center">
-  <b><code style="font-size:1000000px;">01001000 01100101 01101001 01110100 01101111 01110010</code></b>
-</div>
+<p align="center">
+  # 01001000 01100101 01101001 01101001 01110100 01101111 01110010
+</p>
+
 
 <br>
 
