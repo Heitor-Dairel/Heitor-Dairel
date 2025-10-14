@@ -47,9 +47,14 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 
 ## 📱 Contact me:
 
+<div align="center">
+
 [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=Gmail&logoColor=fff&color=%2380aad3)](mailto:hdgtlindo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=Instagram&logoColor=fff&color=%2380aad3)](https://www.instagram.com/hdairel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff&color=%2380aad3)](https://www.linkedin.com/in/heitor-dairel)
+
+</div>
+
 ##
 
 
