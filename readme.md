@@ -75,8 +75,7 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 
 
 
-#  01001000 01100101 01101001 01101001 01110100 01101111 01110010
-
+<h1 style="border-bottom: none;">01001000 01100101 01101001 01101001 01110100 01101111 01110010</h1>
 
 <br>
 
