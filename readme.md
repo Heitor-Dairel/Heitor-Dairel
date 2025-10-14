@@ -72,4 +72,8 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 </picture>
 </div>
 
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=c0e6fd&animation=scaleIn&fontAlignY=45&descAlign=0&descAlignY=0&textBg=false&reversal=true&section=footer"/>
