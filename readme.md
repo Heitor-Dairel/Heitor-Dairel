@@ -19,6 +19,17 @@
 ##
 
 <div align="center">
+
+![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=Gmail&logoColor=fff&color=%2380aad3)(mailto:hdgtlindo@gmail.com)
+![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=Instagram&logoColor=fff&color=%2380aad3)(https://www.instagram.com/hdairel)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff&color=%2380aad3)(https://www.linkedin.com/in/heitor-dairel)
+
+
+</div>
+
+##
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heitor-Dairel/Heitor-Dairel/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heitor-Dairel/Heitor-Dairel/output/github-contribution-grid-snake.svg">
