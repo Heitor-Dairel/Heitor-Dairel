@@ -76,7 +76,7 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 
 
 <p align="center">
-  <font size="6">01001000 01100101 01101001 01101001 01110100 01101111 01110010</font>
+  <font size="20">01001000 01100101 01101001 01101001 01110100 01101111 01110010</font>
 </p>
 
 <br>
