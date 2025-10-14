@@ -108,7 +108,7 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Read More</b>
       </samp>
   </summary>
 
