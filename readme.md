@@ -34,8 +34,8 @@
 
 <div align="center">
 
-<img align="center" alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heitor-Dairel&theme=nord_dark">
-<img align="center" alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Heitor-Dairel&theme=nord_dark">
+<img height=180 align="center" alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heitor-Dairel&theme=nord_dark">
+<img height=180 align="center" alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Heitor-Dairel&theme=nord_dark">
 
 <br>
 <br>
