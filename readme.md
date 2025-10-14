@@ -78,7 +78,7 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 
 
 <div align="center">
-  <b><code style="font-size:30px;">01001000 01100101 01101001 01110100 01101111 01110010</code></b>
+  <b><code style="font-size:100px;">01001000 01100101 01101001 01110100 01101111 01110010</code></b>
 </div>
 
 <br>
