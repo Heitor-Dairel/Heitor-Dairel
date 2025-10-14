@@ -17,7 +17,7 @@
 </div>
 
 
-## About Me
+# 👨🏻 About Me:
 
 Hey everyone... top?  
 My name is **Heitor Dairel** and I'm an **IT Automation Systems Analyst**.  
@@ -45,17 +45,7 @@ Always curious, I like **learning**, **experimenting**, and **mixing logic with 
 Feel free to explore my repositories and follow along if you enjoy what I do!
 
 
-##
-
-<div align="center">
-
-<samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
+# 📱 Contact me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=Gmail&logoColor=fff&color=%2380aad3)](mailto:hdgtlindo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=Instagram&logoColor=fff&color=%2380aad3)](https://www.instagram.com/hdairel)
