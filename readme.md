@@ -12,7 +12,7 @@
 </div>
 
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Heitor-Dairel/Heitor-Dairel/blob/output/github-contribution-grid-snake.svg)
 
 
 <img align="center" src="https://raw.githubusercontent.com/Heitor-Dairel/Heitor-Dairel/output/snake.svg" alt="Snake animation" />
