@@ -61,23 +61,27 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 
 </div>
 
+<br>
 
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heitor-Dairel/Heitor-Dairel/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heitor-Dairel/Heitor-Dairel/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Heitor-Dairel/Heitor-Dairel/output/github-contribution-grid-snake.svg">
 </picture>
+
 </div>
 
 
-
+<br>
 
 
 <div align="center">
-  <b>`01001000 01100101 01101001 01110100 01101111 01110010`</b>
+  <b><code style="font-size:30px;">01001000 01100101 01101001 01110100 01101111 01110010</code></b>
 </div>
 
+<br>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=c0e6fd&animation=scaleIn&fontAlignY=45&descAlign=0&descAlignY=0&textBg=false&reversal=true&section=footer"/>
