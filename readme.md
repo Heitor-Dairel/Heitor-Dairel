@@ -16,6 +16,24 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=900&color=C0E6FD&center=true&width=435&lines=Welcome!;My+name+is+Heitor+Dairel;I%E2%80%99m+a+developer;I%E2%80%99m+from+Brazil;I%E2%80%99m+an+Information+Systems+student" alt="Typing SVG" /></a>
 </div>
 
+
+##
+
+
+## About Me
+
+Hey everyone... top?  
+My name is **Heitor Dairel** and I'm an **IT Automation Systems Analyst**. I really enjoy programming, especially with **Python, Power Automate, PLSQL, SQL, Excel, VBA, and M language**.  
+
+After work, I love diving into programming projects, automations, and little solutions that make life easier. I also enjoy singing and spending quality time with friends.  
+
+On GitHub, you'll find automation projects, analysis scripts, and some nerdy functions I developed for **dates, movable holidays, CPF/CNPJ, and much more**.  
+
+Always curious, I like learning and experimenting with new ideas, mixing logic, creativity, and a bit of fun.  
+
+Feel free to explore my repositories and follow along if you enjoy what I do!
+
+
 ##
 
 <div align="center">
@@ -23,7 +41,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=Gmail&logoColor=fff&color=%2380aad3)](mailto:hdgtlindo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=Instagram&logoColor=fff&color=%2380aad3)](https://www.instagram.com/hdairel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff&color=%2380aad3)](https://www.linkedin.com/in/heitor-dairel)
-
 
 </div>
 
