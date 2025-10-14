@@ -104,4 +104,25 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 <br>
 
 
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+
+<br>
+
+##
+
+> I believe that sometimes it's the people no one expects anything from who do the things no one can imagine. <div align="center"> <img src="assets/alan_turing.png" width="200"/>
+
+<br>
+
+</details>
+
+##
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=c0e6fd&animation=scaleIn&fontAlignY=45&descAlign=0&descAlignY=0&textBg=false&reversal=true&section=footer"/>
