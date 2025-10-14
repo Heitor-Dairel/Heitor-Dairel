@@ -99,7 +99,7 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 <br>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=0&text=01001000%2001100101%2001101001%2001110100%2001101111%2001110010%20&fontSize=29&fontAlign=50&textBg=false&fontColor=c0e6fd">
+01001000 01100101 01101001 01110100 01101111 01110010
 
 <br>
 
