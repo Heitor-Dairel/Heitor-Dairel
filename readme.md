@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <img src="assets/imagem.png" width="400"/>
+  <img src="assets/pato.png" width="400"/>
 </div>
 
 
