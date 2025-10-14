@@ -74,7 +74,9 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 <br>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=300&text=01001000%2001100101%2001101001%2001110100%2001101111%2001110010%20&fontSize=29&fontAlign=50&textBg=false&fontColor=c0e6fd">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=0&text=01001000%2001100101%2001101001%2001110100%2001101111%2001110010%20&fontSize=29&fontAlign=50&textBg=false&fontColor=c0e6fd">
+
+<br>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=c0e6fd&animation=scaleIn&fontAlignY=45&descAlign=0&descAlignY=0&textBg=false&reversal=true&section=footer"/>
