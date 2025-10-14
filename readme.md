@@ -27,8 +27,23 @@
 
 <div align="center">
   <img src="assets/pato.png" width="400"/>
+
+<br>
+
 </div>
 
+<div align="center">
+
+<img align="center" alt="stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heitor-Dairel&theme=nord_dark">
+<img align="center" alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Heitor-Dairel&theme=nord_dark">
+
+<br>
+<br>
+
+<img align="center" alt="profile-details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heitor-Dairel&theme=nord_dark"/>
+</div>
+
+<br>
 
 <div align="center">
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
