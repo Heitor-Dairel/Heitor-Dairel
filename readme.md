@@ -17,19 +17,30 @@
 </div>
 
 
-##
-
-
 ## About Me
 
 Hey everyone... top?  
-My name is **Heitor Dairel** and I'm an **IT Automation Systems Analyst**. I really enjoy programming, especially with **Python, Power Automate, PLSQL, SQL, Excel, VBA, and M language**.  
+My name is **Heitor Dairel** and I'm an **IT Automation Systems Analyst**.  
 
-After work, I love diving into programming projects, automations, and little solutions that make life easier. I also enjoy singing and spending quality time with friends.  
+I really enjoy programming, especially with:  
+- **Python**        
+- **Power Automate**
+- **PLSQL**
+- **SQL**  
+- **Excel / VBA**  
+- **M Language**  
 
-On GitHub, you'll find automation projects, analysis scripts, and some nerdy functions I developed for **dates, movable holidays, CPF/CNPJ, and much more**.  
+After work, I love:  
+- Diving into programming projects and automations  
+- Creating small solutions that make life easier  
+- Singing and spending quality time with friends  
 
-Always curious, I like learning and experimenting with new ideas, mixing logic, creativity, and a bit of fun.  
+On GitHub, you'll find:  
+- Automation projects  
+- Analysis scripts  
+- Nerdy functions I developed for **dates, movable holidays, CPF/CNPJ, and more**  
+
+Always curious, I like **learning**, **experimenting**, and **mixing logic with creativity**.  
 
 Feel free to explore my repositories and follow along if you enjoy what I do!
 
