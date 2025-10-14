@@ -17,6 +17,10 @@
 </div>
 
 
-![snake gif](https://github.com/Heitor-Dairel/Heitor-Dairel/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=c0e6fd&animation=scaleIn&fontAlignY=45&descAlign=0&descAlignY=0&textBg=false&reversal=true&section=footer"/>
