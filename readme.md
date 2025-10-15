@@ -46,10 +46,10 @@
 <br>
 
 <div align="center">
-<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020"/>
-<img width="48" height="48" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/m.png" alt="Power Query M"/>
+<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"/>
+<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" alt="Power Automate"/>
+<img width="48" height="48" src="https://en.wikipedia.org/wiki/File:Oracle_SQL_Developer_logo.svg" alt="oracle-pl-sql"/>
+<img width="48" height="48" src="https://i0.wp.com/tableau-excel.com/wp-content/uploads/sites/23/2024/07/Microsoft-Power-Query.png?ssl=1" alt="Power Query M"/>
 <img width="48" height="48" src="https://github.com/serkonda7/vscode-vba/raw/HEAD/images/icon.png" alt="VBA"/>
 </div>
 
