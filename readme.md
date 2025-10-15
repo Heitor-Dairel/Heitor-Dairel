@@ -119,7 +119,8 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 
 ##
 
-> I believe that sometimes it's the people no one expects anything from who do the things no one can imagine. 
+> "I believe that sometimes it's the people no one expects anything from who do the things no one can imagine."
+> — **Alan Turing** 
 <div align="center"> <img src="assets/alan_turing.png" width="200"/>
 
 <br>
