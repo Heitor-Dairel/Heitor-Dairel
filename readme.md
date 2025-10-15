@@ -46,7 +46,7 @@
 <br>
 
 <div align="center">
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-power-automate-2020.png" alt="microsoft-power-automate-2020"/>
 <img width="48" height="48" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/m.png" alt="Power Query M"/>
