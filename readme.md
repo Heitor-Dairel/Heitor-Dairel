@@ -27,7 +27,7 @@
 
 <div align="center">
   
-  ![Image](https://github.com/user-attachments/assets/0f1bfef1-1104-4592-8628-a1f9919745f2)
+  <img src="assets/duck_yellow.gif" width="400">
 
 <br>
 
