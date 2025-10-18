@@ -28,7 +28,7 @@
 <div align="center">
   
   <!-- <img src="assets/duck_yellow.gif" width="400"> -->
-  ![hippo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RsaXNycXVtbTdzMGpsN25qanZ5dnlsdXkxOWp6ZDFrYzN0N3ZkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wThU6KUHem379hoB3E/giphy.gif)
+  ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 <br>
 
