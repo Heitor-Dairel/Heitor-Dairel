@@ -27,7 +27,7 @@
 
 <div align="center">
   
-  ![Duck_Yellow](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RsaXNycXVtbTdzMGpsN25qanZ5dnlsdXkxOWp6ZDFrYzN0N3ZkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wThU6KUHem379hoB3E/giphy.gif)
+  ![Image](https://github.com/user-attachments/assets/0f1bfef1-1104-4592-8628-a1f9919745f2)
 
 <br>
 
