@@ -26,7 +26,8 @@
 
 
 <div align="center">
-  <img src="assets/duck_yellow.gif" width="400"/>
+  
+  ![Duck_Yellow](assets/duck_yellow.gif)
 
 <br>
 
