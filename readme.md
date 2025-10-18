@@ -26,7 +26,7 @@
 
 
 <div align="center">
-  <img src="assets/pato.png" width="400"/>
+  <img src="assets/duck_yellow.gif" width="400"/>
 
 <br>
 
