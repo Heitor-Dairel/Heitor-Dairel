@@ -11,7 +11,6 @@
   </samp>
 </div>
 
-
 <div align="center" width="100%">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=900&color=C0E6FD&center=true&width=435&lines=Welcome!;My+name+is+Heitor+Dairel;I%E2%80%99m+a+developer;I%E2%80%99m+from+Brazil;I%E2%80%99m+an+Information+Systems+student" alt="Typing SVG" /></a>
 </div>
@@ -23,7 +22,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff&color=%2380aad3)](https://www.linkedin.com/in/heitor-dairel)
 
 </div>
-
 
 <div align="center">
   
@@ -47,40 +45,44 @@
 <br>
 
 <div align="center">
-<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"/>
-<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" alt="Power Automate"/>
-<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/en/6/68/Oracle_SQL_Developer_logo.svg" alt="oracle-pl-sql"/>
-<img width="48" height="48" src="https://i0.wp.com/tableau-excel.com/wp-content/uploads/sites/23/2024/07/Microsoft-Power-Query.png?ssl=1" alt="Power Query M"/>
-<img width="48" height="48" src="https://github.com/serkonda7/vscode-vba/raw/HEAD/images/icon.png" alt="VBA"/>
+<img width="48" height="48" src="assets/python_logo.svg" alt="Python"/>
+<img width="48" height="48" src="assets/golang_logo.svg" alt="Golang"/>
+<img width="48" height="48" src="assets/power_automate_logo.svg" alt="Power Automate"/>
+<img width="48" height="48" src="assets/oracle_logo.svg" alt="oracle-pl-sql"/>
+<img width="48" height="48" src="assets/postgresql_logo.svg" alt="postgre-sql"/>
+<img width="48" height="48" src="assets/power_query_logo.webp" alt="Power Query M"/>
+<img width="48" height="48" src="assets/vba_logo.png" alt="VBA"/>
 </div>
-
-
-
 
 ## 👨🏻 About Me:
 
 Hey everyone... top?  
-My name is **Heitor Dairel** and I'm an **IT Automation Systems Analyst**.  
+My name is **Heitor Dairel** and I'm an **IT Automation Systems Analyst**.
 
-I really enjoy programming, especially with:  
-- **Python**        
+I really enjoy programming, especially with:
+
+- **Python**
+- **Golang**
 - **Power Automate**
-- **PLSQL**
-- **SQL**  
-- **Excel / VBA**  
-- **M Language**  
+- **PL/SQL**
+- **PL/pgSQL**
+- **SQL**
+- **Excel / VBA**
+- **M Language**
 
-After work, I love:  
-- Diving into programming projects and automations  
-- Creating small solutions that make life easier  
-- Singing and spending quality time with friends  
+After work, I love:
 
-On GitHub, you'll find:  
-- Automation projects  
-- Analysis scripts  
-- Nerdy functions I developed for **dates, movable holidays, CPF/CNPJ, and more**  
+- Diving into programming projects and automations
+- Creating small solutions that make life easier
+- Singing and spending quality time with friends
 
-Always curious, I like **learning**, **experimenting**, and **mixing logic with creativity**.  
+On GitHub, you'll find:
+
+- Automation projects
+- Analysis scripts
+- Nerdy functions I developed for **dates, movable holidays, CPF/CNPJ, and more**
+
+Always curious, I like **learning**, **experimenting**, and **mixing logic with creativity**.
 
 Feel free to explore my repositories and follow along if you enjoy what I do!
 
@@ -96,18 +98,13 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 
 </div>
 
-
 <br>
-
 
 <div align="center">
   <b><code>01001000 01100101 01101001 01110100 01101111 01110010</code></b>
 </div>
 
-
 <br>
-
-
 
 <details align="center">  
   <summary>
@@ -121,7 +118,8 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 ##
 
 > "I believe that sometimes it's the people no one expects anything from who do the things no one can imagine."
-> — **Alan Turing** 
+> — **Alan Turing**
+
 <div align="center"> <img src="assets/alan_turing.png" width="200"/>
 
 <br>
@@ -129,6 +127,5 @@ Feel free to explore my repositories and follow along if you enjoy what I do!
 </details>
 
 ##
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=c0e6fd&animation=scaleIn&fontAlignY=45&descAlign=0&descAlignY=0&textBg=false&reversal=true&section=footer"/>
