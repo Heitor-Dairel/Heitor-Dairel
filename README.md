@@ -47,6 +47,7 @@
 <div align="center">
 <img width="48" height="48" src="assets/python_logo.svg" alt="Python"/>
 <img width="48" height="48" src="assets/golang_mascote_logo.svg" alt="Golang"/>
+<img width="48" height="48" src="assets/js_logo.svg" alt="Java-Script"/>
 <img width="48" height="48" src="assets/power_automate_logo.svg" alt="Power Automate"/>
 <img width="48" height="48" src="assets/oracle_logo.svg" alt="oracle-pl-sql"/>
 <img width="48" height="48" src="assets/postgresql_logo.svg" alt="postgre-sql"/>
@@ -63,6 +64,7 @@ I really enjoy programming, especially with:
 
 - **Python**
 - **Golang**
+- **Java Script**
 - **Power Automate**
 - **PL/SQL**
 - **PL/pgSQL**
